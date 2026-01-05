@@ -1,4 +1,4 @@
-package variaveisTiposDeDados;
+package variaveisTiposDeDados.aula7;
 
 public class numeroPontoFlutuantes {
     public static void main(String[] args) {

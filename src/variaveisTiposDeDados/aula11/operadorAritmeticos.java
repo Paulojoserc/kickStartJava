@@ -1,4 +1,4 @@
-package variaveisTiposDeDados;
+package variaveisTiposDeDados.aula11;
 
 public class operadorAritmeticos {
     public static void main(String[] args) {

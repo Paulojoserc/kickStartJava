@@ -1,6 +1,5 @@
-package variaveisTiposDeDados;
+package variaveisTiposDeDados.aula8;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class exBooleano {

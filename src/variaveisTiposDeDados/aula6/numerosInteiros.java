@@ -1,4 +1,4 @@
-package variaveisTiposDeDados;
+package variaveisTiposDeDados.aula6;
 
 public class numerosInteiros {
     public static void main(String[] args) {

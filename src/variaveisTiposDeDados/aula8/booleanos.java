@@ -1,4 +1,4 @@
-package variaveisTiposDeDados;
+package variaveisTiposDeDados.aula8;
 
 public class booleanos {
     public static void main(String[] args) {

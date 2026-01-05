@@ -1,4 +1,4 @@
-package variaveisTiposDeDados;
+package variaveisTiposDeDados.aula9;
 
 public class texto {
     public static void main(String[] args) {
