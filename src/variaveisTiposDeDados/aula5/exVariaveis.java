@@ -1,4 +1,4 @@
-package variaveisTiposDeDados;
+package variaveisTiposDeDados.aula5;
 
 import java.util.Scanner;
 
