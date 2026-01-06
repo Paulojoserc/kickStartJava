@@ -21,7 +21,7 @@ public class operadorAritmeticos {
         //2. Incrementos e Decrementos
         int n1 = 5;
         int n2 = 5;
-        //Incrementos
+       // Incrementos
         System.out.println(n1++);
         //n1 = 5 +1
         System.out.println(n1);
@@ -34,11 +34,11 @@ public class operadorAritmeticos {
         int n3 = 5;
         int n4 = 5;
         System.out.println(n3--);
-        //n1 = 5-1
+        //n3 = 5-1
         System.out.println(n3);
 
-        //n2 = 5-1
-        System.out.println(--n2);
-        System.out.println(n2);
+        //n4 = 5-1
+        System.out.println(--n4);
+        System.out.println(n4);
     }
 }
