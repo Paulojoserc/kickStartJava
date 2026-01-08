@@ -2,7 +2,7 @@ package variaveisTiposDeDados.aula12;
 
 import java.util.Scanner;
 
-public class exEstruturasCondicionaisSimples {
+public class ex01EstruturasCondicionaisSimples {
     public static void main(String[] args) {
         //1. - introdução
         System.out.println("*****SISTEMA DE GORJETAS******");
@@ -21,7 +21,7 @@ public class exEstruturasCondicionaisSimples {
             System.out.println("GORJETA DE R$: " + valor + " REALIZADA COM SUCESSO");
         } else {
             //4.4 - Agradecer a visita ao restaurante!
-            System.out.println("AGRADECEMOS A VISITA, ATÊ A PROXIMA!");
+            System.out.println("AGRADECEMOS A VISITA, ATÊ A PRÓXIMA!");
         }
     }
 }
