@@ -2,7 +2,7 @@ package variaveisTiposDeDados.aula21;
 
 import java.util.Scanner;
 
-public class DoWhile {
+public class doWhile {
     public static void main(String[] args) {
         //do
         //...

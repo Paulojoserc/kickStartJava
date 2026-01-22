@@ -1,6 +1,6 @@
 package variaveisTiposDeDados.aula10;
 
-public class Casting {
+public class casting {
     public static void main(String[] args) {
         // Widening Casting (Automático) = byte -> short -> char -> int -> long -> float -> double
         //Narrowing Casting (manual) = double -> float -> long -> int -> char -> short -> byte

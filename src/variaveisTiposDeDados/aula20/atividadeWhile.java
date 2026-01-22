@@ -2,7 +2,7 @@ package variaveisTiposDeDados.aula20;
 
 import java.util.Scanner;
 
-public class While {
+public class atividadeWhile {
     public static void main(String[] args) {
 
         //while

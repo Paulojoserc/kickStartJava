@@ -2,7 +2,7 @@ package variaveisTiposDeDados.aula22;
 
 import java.util.Scanner;
 
-public class For {
+public class atividadeFor {
     public static void main(String[] args) {
 
         //for (inicialização; condição logica; imcremente/decremento)
