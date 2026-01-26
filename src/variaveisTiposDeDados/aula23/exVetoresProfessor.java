@@ -1,6 +1,4 @@
-package variaveisTiposDeDados.aulo23;
-
-import org.w3c.dom.ls.LSOutput;
+package variaveisTiposDeDados.aula23;
 
 import java.util.Arrays;
 import java.util.Scanner;

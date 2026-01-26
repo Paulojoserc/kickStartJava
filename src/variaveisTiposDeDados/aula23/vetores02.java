@@ -1,6 +1,5 @@
-package variaveisTiposDeDados.aulo23;
+package variaveisTiposDeDados.aula23;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class vetores02 {

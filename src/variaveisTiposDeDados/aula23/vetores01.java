@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aulo23;
+package variaveisTiposDeDados.aula23;
 
 public class vetores01 {
     public static void main(String[] args) {
