@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula18;
+package br.com.paulo.kickstartjava.modulo03_estruturas_condicionais.aula18_operador_ternario;
 
 import java.util.Scanner;
 

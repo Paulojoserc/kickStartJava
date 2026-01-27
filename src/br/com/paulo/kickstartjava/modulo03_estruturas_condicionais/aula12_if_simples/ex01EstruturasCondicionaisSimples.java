@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula12;
+package br.com.paulo.kickstartjava.modulo03_estruturas_condicionais.aula12_if_simples;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula17;
+package br.com.paulo.kickstartjava.modulo03_estruturas_condicionais.aula17_switch;
 
 import java.util.Scanner;
 

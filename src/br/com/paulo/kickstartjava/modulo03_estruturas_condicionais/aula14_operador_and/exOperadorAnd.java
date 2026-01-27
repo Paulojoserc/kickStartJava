@@ -1,6 +1,5 @@
-package variaveisTiposDeDados.aula14;
+package br.com.paulo.kickstartjava.modulo03_estruturas_condicionais.aula14_operador_and;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;
 
 public class exOperadorAnd {

@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula14;
+package br.com.paulo.kickstartjava.modulo03_estruturas_condicionais.aula14_operador_and;
 
 public class operadorAndNumeros {
     public static void main(String[] args) {

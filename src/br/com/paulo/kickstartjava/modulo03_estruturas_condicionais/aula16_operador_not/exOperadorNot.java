@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula16;
+package br.com.paulo.kickstartjava.modulo03_estruturas_condicionais.aula16_operador_not;
 
 import java.util.Scanner;
 

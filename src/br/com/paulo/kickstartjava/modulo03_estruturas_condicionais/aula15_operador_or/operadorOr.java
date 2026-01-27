@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula15;
+package br.com.paulo.kickstartjava.modulo03_estruturas_condicionais.aula15_operador_or;
 
 public class operadorOr {
     public static void main(String[] args) {
