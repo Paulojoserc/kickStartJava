@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula10;
+package br.com.paulo.kickstartjava.modulo02_variaveis_tipos.aula10_conversão_tipos;
 
 
 import java.util.Scanner;

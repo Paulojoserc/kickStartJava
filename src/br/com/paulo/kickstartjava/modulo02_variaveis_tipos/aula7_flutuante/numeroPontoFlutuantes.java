@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula7;
+package br.com.paulo.kickstartjava.modulo02_variaveis_tipos.aula7_flutuante;
 
 public class numeroPontoFlutuantes {
     public static void main(String[] args) {

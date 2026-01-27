@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula8;
+package br.com.paulo.kickstartjava.modulo02_variaveis_tipos.aula8_booleanos;
 
 import java.util.Scanner;
 

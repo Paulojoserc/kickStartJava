@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula9;
+package br.com.paulo.kickstartjava.modulo02_variaveis_tipos.aula9_textos;
 
 import java.util.Scanner;
 

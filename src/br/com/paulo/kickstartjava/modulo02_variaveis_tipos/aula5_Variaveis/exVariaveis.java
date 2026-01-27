@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula5;
+package br.com.paulo.kickstartjava.modulo02_variaveis_tipos.aula5_Variaveis;
 
 import java.util.Scanner;
 

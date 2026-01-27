@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula10;
+package br.com.paulo.kickstartjava.modulo02_variaveis_tipos.aula10_conversão_tipos;
 
 public class casting {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula11;
+package br.com.paulo.kickstartjava.modulo02_variaveis_tipos.aula11_operadores_aritmeticos;
 
 public class operadorAritmeticos {
     public static void main(String[] args) {
