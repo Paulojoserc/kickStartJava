@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula25;
+package br.com.paulo.kickstartjava.modulo05_vetores_matrizes.aula25_matrizes;
 
 import java.util.Arrays;
 

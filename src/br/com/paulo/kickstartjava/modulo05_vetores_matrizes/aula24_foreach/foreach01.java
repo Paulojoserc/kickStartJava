@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula24;
+package br.com.paulo.kickstartjava.modulo05_vetores_matrizes.aula24_foreach;
 
 public class foreach01 {
     public static void main(String[] args) {

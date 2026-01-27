@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula23;
+package br.com.paulo.kickstartjava.modulo05_vetores_matrizes.aula23_vetores;
 
 public class vetores01 {
     public static void main(String[] args) {

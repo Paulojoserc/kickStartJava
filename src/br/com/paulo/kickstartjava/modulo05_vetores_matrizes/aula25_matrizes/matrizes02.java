@@ -1,6 +1,4 @@
-package variaveisTiposDeDados.aula25;
-
-import java.util.Arrays;
+package br.com.paulo.kickstartjava.modulo05_vetores_matrizes.aula25_matrizes;
 
 public class matrizes02 {
     public static void main(String[] args) {
