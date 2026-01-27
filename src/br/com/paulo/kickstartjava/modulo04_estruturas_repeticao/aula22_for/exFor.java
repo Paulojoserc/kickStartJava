@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula22;
+package br.com.paulo.kickstartjava.modulo04_estruturas_repeticao.aula22_for;
 
 import java.util.Scanner;
 

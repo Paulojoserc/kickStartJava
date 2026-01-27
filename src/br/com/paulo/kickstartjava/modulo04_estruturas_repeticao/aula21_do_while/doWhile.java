@@ -1,4 +1,4 @@
-package variaveisTiposDeDados.aula21;
+package br.com.paulo.kickstartjava.modulo04_estruturas_repeticao.aula21_do_while;
 
 import java.util.Scanner;
 
